@@ -45,16 +45,6 @@ Now building modern, scalable web applications.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gerlin3D&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 # 📫 Contact Me
 
 <p align="center">
